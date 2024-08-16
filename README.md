@@ -17,7 +17,7 @@ Here are some screenshots of the application:
 ### Home Page
 ![Popular](https://github.com/vaidika01/Anime-Explore/blob/master/public/demo/Screenshot%202024-08-14%20231016.png)
 
-![Airing](https://github.com/vaidika01/Anime-Explore/blob/master/public/demo/Screenshot%202024-08-14%20231016.png)
+![Airing](https://github.com/vaidika01/Anime-Explore/blob/master/public/demo/Screenshot%202024-08-14%20231000.png)
 
 ### Anime Page
 ![Product Categories](https://github.com/vaidika01/Anime-Explore/blob/master/public/demo/Screenshot%202024-08-14%20231126.png)
