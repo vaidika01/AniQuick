@@ -39,12 +39,12 @@ To run the website locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/vaidika01/Anime-Explore
+   git clone https://github.com/vaidika01/AniQuick
    
 2. Navigate to the project directory:
 
    ```bash
-   cd Anime-Explore-master
+   cd AniQuick-master
    
 3. Install dependencies:
 
