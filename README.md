@@ -1,4 +1,4 @@
-# Anime Explorer
+# [AniQuick (Anime Explor)](https://aniquick.onrender.com/) 
 
 Anime Explorer is a React-based web application that allows users to explore popular and airing anime series. Users can search for anime, view detailed information about individual anime, and browse characters and galleries.
 
